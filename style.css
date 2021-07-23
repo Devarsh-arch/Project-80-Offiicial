@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+    border: cadetblue solid;
+}
+input{
+    background-color: darkgoldenrod;
+    text-decoration: darkred;
+    font-family: monospace;
+}
+button{
+    background-color: deepskyblue;;
+    text-decoration: forestgreen;
+}
+button div{
+    font-style: monospace;
+}
+h1{
+    text-decoration: limegreen;
+    font-style: monospace;
+}
